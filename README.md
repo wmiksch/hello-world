@@ -1,5 +1,4 @@
 # hello-world
-The Hello World Tutorial offered by GitHub
 
 Grias eng die Madln, Servas die Buam,
 
